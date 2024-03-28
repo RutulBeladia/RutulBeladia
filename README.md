@@ -1,5 +1,6 @@
  **👋 Hi, I’m @RutulBeladiya**
- ![code](https://github.com/RutulBeladia/RutulBeladia/assets/133772715/aaa7d8f0-c407-47c9-ad72-0a2f15757fdd)
+ ![giphy](https://github.com/RutulBeladia/RutulBeladia/assets/133772715/dbe688fd-f1d5-4354-9bfc-e20d1ef251f6)
+
 - **I'm a Computer Engineer!!**
 - 👀 I’m interested in Fullstack Web Development(React.js, Node.js,Express.js, Python, Php Laravel).
 - 🌱 I’m currently studying Information and Electrical Engineering at Hochschule Wismar, Germany.
