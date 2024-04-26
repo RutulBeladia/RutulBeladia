@@ -6,10 +6,10 @@
 - 🌱 I’m currently studying Information and Electrical Engineering at Hochschule Wismar, Germany.
 - 🌱 Studied Computer Applications at Veer Naramad South Gujarat University, India.
 - **Things I code with**
-- 🌱 Node.js, React.js, TypeScript, JavaScript, Php Laravel, Python.
-- 🌱 Shell Scripting, Restful APIs.
+- 🌱 Node.js, React.js, JavaScript, Php Laravel, Python.
+- 🌱 Shell Scripting.
 - 🌱 Linux Command line, Unix.
-- 🌱 MongoDB,PostgreSQL, MySQL, AWS and DevOps.
+- 🌱 MongoDB, MySQL.
 <!---
 RutulBeladia/RutulBeladia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
