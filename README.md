@@ -1,17 +1,24 @@
- **👋 Hi, I’m @RutulBeladiya**
- ![giphy](https://github.com/RutulBeladia/RutulBeladia/assets/133772715/dbe688fd-f1d5-4354-9bfc-e20d1ef251f6)
+Hi there, I'm Rutul Beladiya 👋
+I'm a Master's student in Information & Electrical Engineering with a passion for building intelligent systems where hardware and software meet. My focus is on Industrial Automation (Industry 4.0) and Embedded Systems. I enjoy the challenge of writing code that interacts with the physical world, from controlling PLCs to designing real-time IoT solutions.
 
-- **I'm a Computer and Electrical Engineer!!**
-- My keen interest in IoT Development and Automation Engineering.
-- 👀 I’m interested in Fullstack Web Development(React.js, Node.js,Express.js, Python, Php Laravel).
-- 🌱 I’m currently studying Information and Electrical Engineering at Hochschule Wismar, Germany.
-- 🌱 Studied Computer Applications at Veer Narmad South Gujarat University, India.
-- **Things I code with**
-- 🌱Python, C/C++, JavaScript, TypeScript
-- 🌱 Shell Scripting.
-- 🌱 Linux Command line, Unix.
-- 🌱 MongoDB, MySQL.
-<!---
-RutulBeladia/RutulBeladia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 What I'm Working With:
+
+Languages: C/C++, Python, VHDL, Shell Scripting
+
+Automation & PLC: Siemens S7 (TIA Portal/STEP 7), Industrial Protocols (MQTT, TCP/IP)
+
+Microcontrollers & SBCs: ESP32, Raspberry Pi, Arduino
+
+Hardware & Design: PCB Design with KiCad, Xilinx Vivado
+
+Tools: Git, Docker, Linux, MATLAB, Wireshark
+
+🌱 What I'm Learning:
+
+I'm currently deepening my knowledge in real-time operating systems (RTOS) and exploring advanced control strategies for automation. My goal is to contribute to projects that make industrial processes smarter and more efficient.
+
+📫 How to Reach Me:
+
+Email: beladiyarutul@gmail.com
+
+LinkedIn: Connect with me on LinkedIn
